@@ -2,7 +2,6 @@ import tkinter as tk
 import numpy as np
 from tensorflow.keras.models import load_model
 from PIL import Image, ImageGrab
-import io
 
 model = load_model("mnist_model.keras")
 
