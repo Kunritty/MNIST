@@ -3,7 +3,8 @@ This project features a convolutional deep neural network created in Tensorflow'
 
 I also created a simple GUI with tkinter to allow the user to draw their own number and see the model's predictions.
 
-## To Run ##
-Download the packages in requirements.txt
+This project was inspired by Sebastian Lague's [video](https://www.youtube.com/watch?v=hfMk-kjRv4c&t=2957s) on neural networks.
 
-Then, run DrawingApp.py
+## To Run ##
+1. Download the packages in requirements.txt
+2. Then, run DrawingApp.py
